@@ -16,7 +16,7 @@ This project implements image steganography in C using the Least Significant Bit
 - Image appearance remains visually unchanged
 
 ## How to Run
-Clone the Repository: git clone (https://github.com/kaavya221103/Steganography.git) cd mp3-tag-reader
+Clone the Repository: git clone https://github.com/kaavya221103/Steganography.git cd mp3-tag-reader
 
 ## Compile the Program
 - gcc src/steganography.c -o steganography
